@@ -1,0 +1,71 @@
+
+.note-light {
+    background: rgb(255, 255, 255);
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    width: 240px;
+    margin: 16px;
+    float: left;
+  }
+  
+  .note-dark {
+    background: rgb(121, 96, 96);
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    width: 240px;
+    margin: 40px 16px 16px 16px;
+    float: left;
+    color: black;
+  }
+  
+  .note-light h1 {
+    font-size: 1.1em;
+    margin-bottom: 6px;
+  }
+  
+  .note-dark h1 {
+    font-size: 1.4em;
+    margin-bottom: 6px;
+  }
+  
+  .note-light p {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
+  .note-dark p {
+    font-size: 1.4em;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
+  .note-light button {
+    position: relative;
+    float: right;
+    margin-right: 10px;
+    color: #f5ba13;
+    border: none;
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+    outline: none;
+    background-color: white;
+  }
+  
+  .note-dark  button {
+    position: relative;
+    float: right;
+    margin-right: 10px;
+    color: #b1891b;
+    border: none;
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+    outline: none;
+    background: rgb(121, 96, 96);
+  }

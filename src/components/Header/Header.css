@@ -1,0 +1,27 @@
+
+.header-light {
+    background-color: #f5ba13;
+    margin: auto -16px;
+    padding: 16px 32px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  }
+  
+  .header-dark {
+    background-color: rgba(0, 0, 0, 0.664);
+    margin: auto -16px;
+    padding: 16px 32px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  }
+  
+  .header-light h1 {
+    color: #fff;
+    font-family: 'Comic Neue', cursive;
+    font-weight: 200;
+  }
+  
+  .header-dark h1 {
+    color: #f5ba13;
+    font-family: 'Comic Neue', cursive;
+    font-weight: 200;
+  }
+  

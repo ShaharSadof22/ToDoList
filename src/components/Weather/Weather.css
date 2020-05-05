@@ -1,0 +1,25 @@
+
+.weather-light {
+    position: relative;
+    margin: -160px 80% 20px ;
+    width: 180px;
+    background: #fff;
+    padding: 15px;
+    border-radius: 7px;
+    box-shadow: 0 1px 5px rgb(138, 137, 137);
+    text-align: center;
+    /* background-image: url("./weather-images/clear.PNG"); */
+}
+
+.weather-dark {
+    position: relative;
+    margin: -160px 80% 20px ;
+    width: 180px;
+    background: rgba(92, 73, 73, 0.774);
+    padding: 15px;
+    border-radius: 7px;
+    box-shadow: 0 1px 5px rgb(138, 137, 137);
+    text-align: center;
+    /* background-image: url("./weather-images/clear.PNG"); */
+}
+
